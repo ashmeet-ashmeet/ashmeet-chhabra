@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ashmeet Singh Chhabra</h1>
+<h1 align="center">Hi, I'm Ashmeet Singh Chhabra</h1>
 🌱 I’m currently learning <b>Frontend Development</b> and <b>Data Structures & Algorithms</b>
 
 <h3 align="left">Connect with me:</h3>
