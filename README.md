@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Ashmeet Singh Chhabra</h1>
-- 🔭 I’m currently working on **Frontend Development**
+🔭 I’m currently working on <b>Frontend Development</b>
+<br>
+🌱 I’m currently learning <b>Data Structures & Algorithms</b>
 
-- 🌱 I’m currently learning **Data Structures & Algorithms**
-
-- 💬 Ask me about **C/C++**
+💬 Ask me about **C/C++**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
