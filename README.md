@@ -1,6 +1,6 @@
 - 🔭 I’m currently working on **Frontend Development**
 
-- 🌱 I’m currently learning **Javascript and React.js**
+- 🌱 I’m learning **Javascript and React.js**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
